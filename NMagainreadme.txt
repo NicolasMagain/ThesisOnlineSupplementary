@@ -1,0 +1,1 @@
+This folder contains the supplementary material from the thesis of Nicolas Magain.
